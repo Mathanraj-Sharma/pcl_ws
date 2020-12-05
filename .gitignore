@@ -33,4 +33,3 @@
 
 # build Folder
 */build/*
-!*/build/Debug/*.exe
